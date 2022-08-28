@@ -1,0 +1,19 @@
+.bigplus {
+    font-size: 60px;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+
+.testimonials-buttons {
+    display: flex;
+    margin-top: 15px;
+    padding-left: 20px;
+    
+}
+@media(max-width:1000px){
+    .testimonials-buttons {
+        justify-content: center;
+        padding: 0;
+        
+    }
+}
